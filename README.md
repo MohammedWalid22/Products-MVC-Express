@@ -117,7 +117,7 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/USERNAME/products-app.git
+git clone https://github.com/MohammedWalid22/products-app.git
 cd products-app
 2️⃣ Install dependencies
 npm install
@@ -129,3 +129,4 @@ MONGO_URI=mongodb://127.0.0.1:27017/productsDB
 node seed.js
 5️⃣ Run the project
 npm run dev
+
