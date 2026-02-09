@@ -66,6 +66,53 @@ products-app/
 
 ---
 
+
+## 🌐 Usage
+
+Open your browser and go to:  
+`http://localhost:3000/products`
+
+You can:  
+- View all products  
+- Add a new product  
+- Edit existing products  
+- Delete products  
+
+---
+
+## 📌 Learning Outcomes
+
+- Understanding MVC architecture  
+- Working with MongoDB & Mongoose  
+- Building server-rendered applications  
+- Structuring real-world Node.js projects  
+- CRUD operations in Express  
+
+---
+
+## 🔮 Future Improvements
+
+- Authentication & Authorization (JWT)  
+- REST API version  
+- Admin dashboard  
+- Image upload  
+- Pagination & search  
+
+---
+
+## 👨‍💻 Author
+
+Mohammed Walid  
+Backend Developer (Node.js)  
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub!
+
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -82,45 +129,3 @@ MONGO_URI=mongodb://127.0.0.1:27017/productsDB
 node seed.js
 5️⃣ Run the project
 npm run dev
-🌐 Usage
-Open your browser and go to:
-
-http://localhost:3000/products
-You can:
-
-View all products
-
-Add a new product
-
-Edit existing products
-
-Delete products
-
-📌 Learning Outcomes
-Understanding MVC architecture
-
-Working with MongoDB & Mongoose
-
-Building server-rendered applications
-
-Structuring real-world Node.js projects
-
-CRUD operations in Express
-
-🔮 Future Improvements
-Authentication & Authorization (JWT)
-
-REST API version
-
-Admin dashboard
-
-Image upload
-
-Pagination & search
-
-👨‍💻 Author
-Mohammed Walid
-Backend Developer (Node.js)
-
-⭐ Support
-If you like this project, please consider giving it a ⭐ on GitHub!
